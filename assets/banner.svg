@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Marcos Menezes — Computer Engineering, AWS, AI and Robotics</title>
+  <desc id="description">Animated black and purple profile banner with glowing particles.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="0.5" stop-color="#0b0712"/>
+      <stop offset="1" stop-color="#030303"/>
+    </linearGradient>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed">
+        <animate attributeName="stop-color" values="#7c3aed;#c084fc;#7c3aed" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#d8b4fe">
+        <animate attributeName="stop-color" values="#d8b4fe;#8b5cf6;#d8b4fe" dur="5s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#6d28d9">
+        <animate attributeName="stop-color" values="#6d28d9;#a855f7;#6d28d9" dur="5s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#a855f7" stop-opacity="0.75"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#a855f7" stroke-opacity="0.08"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="textGlow" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="rounded">
+      <rect width="1200" height="360" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <rect width="1200" height="360" fill="url(#background)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+
+    <circle cx="150" cy="55" r="230" fill="url(#glow)" opacity="0.38">
+      <animate attributeName="cx" values="150;285;150" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="55;115;55" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1080" cy="310" r="270" fill="url(#glow)" opacity="0.28">
+      <animate attributeName="cx" values="1080;930;1080" dur="13s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="310;230;310" dur="10s" repeatCount="indefinite"/>
+    </circle>
+
+    <g fill="#d8b4fe" filter="url(#softGlow)">
+      <circle cx="102" cy="250" r="3">
+        <animate attributeName="opacity" values="0.15;1;0.15" dur="3.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="250" cy="91" r="2">
+        <animate attributeName="opacity" values="1;0.15;1" dur="4.1s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="965" cy="76" r="3">
+        <animate attributeName="opacity" values="0.2;1;0.2" dur="3.7s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1110" cy="202" r="2">
+        <animate attributeName="opacity" values="1;0.2;1" dur="2.9s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" text-anchor="middle">
+      <text x="600" y="160" fill="url(#purple)" font-size="72" font-weight="800" letter-spacing="7" filter="url(#textGlow)">
+        MARCOS MENEZES
+      </text>
+      <text x="600" y="218" fill="#e9d5ff" font-size="22" font-weight="500" letter-spacing="5">
+        COMPUTER ENGINEERING • CLOUD • AI • ROBOTICS
+      </text>
+      <rect x="448" y="258" width="304" height="40" rx="20" fill="#a855f7" fill-opacity="0.08" stroke="#a855f7" stroke-opacity="0.6"/>
+      <text x="600" y="284" fill="#c4b5fd" font-size="15" font-weight="600" letter-spacing="2">
+        BUILDING IDEAS INTO SYSTEMS
+      </text>
+    </g>
+
+    <path d="M0 334 C230 305 360 364 590 334 S960 302 1200 336" fill="none" stroke="url(#purple)" stroke-width="2" opacity="0.55">
+      <animate attributeName="d" values="M0 334 C230 305 360 364 590 334 S960 302 1200 336;M0 328 C220 363 390 300 610 334 S970 365 1200 326;M0 334 C230 305 360 364 590 334 S960 302 1200 336" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#8b5cf6" stroke-opacity="0.35" stroke-width="2"/>
+</svg>
