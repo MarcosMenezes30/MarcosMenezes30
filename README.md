@@ -14,7 +14,7 @@ Computer Engineering student at SENAI CIMATEC, based in Salvador, Bahia. I enjoy
 
 - AWS Golden Student Builder Group Leader and Campus Leader
 - Currently building projects with Python, TypeScript and AWS
-- Interested in AI/RAG, computer vision, ROS 2 and Gazebo
+- Interested in Data/AI, DevOps and Solution Architecture
 - Portfolio: [marcostelesdemenezes.vercel.app](https://marcostelesdemenezes.vercel.app/)
 
 ## Tech stack
