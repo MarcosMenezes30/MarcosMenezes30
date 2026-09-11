@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Marcos Menezes — Computer Engineering, Cloud, AI and Robotics" />
+  <img src="./assets/banner.svg" width="100%" alt="Marcos Menezes — Computer Engineering, AWS, Data/AI, DevOps and Solution Architecture" />
 
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=A855F7&center=true&vCenter=true&width=760&lines=Computer+Engineering+student;AWS+Golden+Student+Builder+Group+Leader;Building+with+AI%2C+Cloud+and+Robotics;Learning%2C+shipping%2C+sharing" alt="Animated introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=A855F7&center=true&vCenter=true&width=760&lines=Computer+Engineering+student;AWS+Golden+Student+Builder+Group+Leader+and+AWS+Ambassador;Building+with+AI%2C+Cloud+and+DevOps;Learning%2C+shipping%2C+sharing" alt="Animated introduction" />
   </a>
 </div>
 
 ## About me
 
-Computer Engineering student at SENAI CIMATEC, based in Salvador, Bahia. I enjoy turning ideas into useful systems and exploring the intersection of cloud computing, artificial intelligence, computer vision, web development and robotics.
+Computer Engineering student at SENAI CIMATEC, based in Salvador, Bahia. I enjoy turning ideas into useful systems and exploring the intersection of AWS, cloud computing, artificial intelligence, web development and solution architecture.
 
 - AWS Golden Student Builder Group Leader and Campus Leader
-- Currently building projects with Python, TypeScript and AWS
+- Currently building projects with Python, REST APIs, AI and AWS
 - Interested in Data/AI, DevOps and Solution Architecture
 - Portfolio: [marcostelesdemenezes.vercel.app](https://marcostelesdemenezes.vercel.app/)
 
