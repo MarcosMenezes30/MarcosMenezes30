@@ -4,7 +4,7 @@
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=A855F7&center=true&vCenter=true&width=760&lines=Computer+Engineering+student;AWS+Golden+Student+Builder+Group+Leader+and+AWS+Ambassador;Building+with+AI%2C+Cloud+and+DevOps;Learning%2C+shipping%2C+sharing" alt="Animated introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=A855F7&center=true&vCenter=true&width=760&lines=Computer+Engineering+Student;First+AWS+Student+Builder+Group+Leader+in+Northeast+Brazil;AWS+Student+Ambassador;Building+with+AI%2C+Cloud+and+DevOps;Learning%2C+shipping%2C+sharing" alt="Animated introduction" />
   </a>
 </div>
 
@@ -21,14 +21,10 @@ Computer Engineering student at SENAI CIMATEC, based in Salvador, Bahia. I enjoy
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=C084FC" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=C084FC" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=C084FC" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=C084FC" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=C084FC" alt="Next.js" />
   <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonwebservices&logoColor=C084FC" alt="AWS" />
   <img src="https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=C084FC" alt="OpenCV" />
   <img src="https://img.shields.io/badge/ROS_2-111111?style=for-the-badge&logo=ros&logoColor=C084FC" alt="ROS 2" />
-  <img src="https://img.shields.io/badge/Gazebo-111111?style=for-the-badge&logo=gazebo&logoColor=C084FC" alt="Gazebo" />
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=C084FC" alt="Git" />
 </div>
 
